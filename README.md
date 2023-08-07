@@ -1,4 +1,4 @@
-# Age Detection Classifier.
+# Age Detection Classifier
 
 The application uses [Streamlit](https://streamlit.io/) to deploy a computer vision application.
 
